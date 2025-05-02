@@ -1,0 +1,163 @@
+*{
+    margin:0;
+    padding:0;
+}
+.div1{
+   margin:30px 0;
+
+}
+h1{
+    display: inline-block;
+}
+.btn {
+    display: inline-block;
+    font-weight:600px;
+    font-size: 20px;
+    padding: 16px;
+    margin-left: 70%;
+    border-radius:10px;
+   
+}
+.div2{
+   margin-top:20px;
+   height:600px;
+   width:100%;
+   background-image:url(img.jpg);
+   background-size:cover;
+   background-repeat:no-repeat;
+   text-align:center;
+}
+.div2 img{
+ margin: 40px 40%;
+}
+.div2 button{
+    padding: 20px;
+    color:white;
+    background-color:black;
+    font-size: 24px;
+    font-weight:600;
+    margin: 10px 40%;
+    border-radius:16px;
+}
+.main{
+    background-color: rgba(211, 211, 211, 0.493);
+    height:1200px;
+    width: 90%;
+    margin: 30px auto;
+    border-radius:10px;
+    text-align:center;
+    padding:20px;
+}
+
+.a{
+    background-color:white;
+    width:85%;
+    margin:30px auto;
+}
+
+.b{
+    background-color:white;
+    width:85%;
+    margin:30px auto;
+}
+.btn3{
+    font-size: 20px;
+    margin-top:32px;
+    margin-left: -600px;
+}
+.div3{
+    margin:150px;
+    text-align:center;
+}
+
+.div4{
+margin:50px auto;
+height:600px;
+width:1130px;
+border: 2px solid rgb(187, 179, 179);
+border-radius:10px;
+}
+.ifram{
+margin-left: 30px;
+margin-top:30px;
+border-radius:20px;
+}
+
+.div5{
+    margin-top:100px;
+    padding:30px;
+    text-align:center;
+}
+.div6{
+    display: flex;
+}
+.a6 {
+    margin:16px;
+    border-radius:10px;
+    height:300px;
+    width:31%;
+    text-align:center;
+    background-color: rgb(204, 227, 247);
+}
+.b6 {
+    margin:16px;
+    border-radius:10px;
+    height:300px;
+    width:31%;
+    text-align:center;
+    background-color: rgb(106, 113, 119);
+}
+.c6 {
+    margin:16px;
+    border-radius:10px;
+    height:300px;
+    width:31%;
+    text-align:center;
+    background-color: rgb(243, 252, 219);
+}
+.div7{
+    text-align:center;
+    padding:30px;
+}
+.div8{
+    height:150px;
+    width:80%;
+    margin:20px auto;
+    padding:30px;
+    border-radius:10px;
+    text-align:center;
+    border:2px solid gray;
+}
+.div9{
+    text-align:center;
+    height:150px;
+    width:85%;
+    padding:10px;
+    border:1px solid gray;
+    border-radius: 10px;
+    margin: 10px auto;
+    background-image:url(img.jpg) ;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.input{
+    padding:16px;
+    width:70%;
+    margin-top:10px;
+    border-radius:10px;
+}
+.btn9{
+    padding:16px;
+    margin-top:10px;
+    border-radius:10px;
+    font-size:20px;
+    font-weight:600;
+}
+.footer{
+    height:100px;
+    width:100%;
+    background-color:aliceblue;
+    text-align:center;
+    margin-top:20px;
+    padding-top:40px;
+}
